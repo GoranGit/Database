@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalogue>
+    <album>
+      <name>SremmLife</name>
+      <artist>Rae Sremmurd</artist>
+      <year>2009</year>
+      <producer>Young Chop</producer>
+      <price>35.29</price>
+      <songs>
+        <song>
+          <title>No Flex Zone</title>
+          <duration>3:05</duration>
+        </song>
+        <song>
+          <title>No Type</title>
+          <duration>4:22</duration>
+        </song>
+      </songs>
+    </album>
+    <album>
+      <name>The Pale Emperor</name>
+      <artist>Marilyn Manson</artist>
+      <year>2015</year>
+      <producer>Tyler Bates</producer>
+      <price>15.79</price>
+      <songs>
+        <song>
+          <title>Cupid Carries a Gun</title>
+          <duration>3:55</duration>
+        </song>
+        <song>
+          <title>Deep Six</title>
+          <duration>4:05</duration>
+        </song>
+      </songs>
+    </album>
+    <album>
+      <name>Unguarded</name>
+      <artist>Rae Morris</artist>
+      <year>2015</year>
+      <producer>Jim Eliot</producer>
+      <price>40.00</price>
+      <songs>
+        <song>
+          <title>Skin</title>
+          <duration>3:55</duration>
+        </song>
+        <song>
+          <title>Under the Shadows</title>
+          <duration>4:05</duration>
+        </song>
+        <song>
+          <title>"For You</title>
+          <duration>2:85</duration>
+        </song>
+      </songs>
+    </album>
+    <album>
+      <name>Life</name>
+      <artist>Rae Sremmurd</artist>
+      <year>2007</year>
+      <producer>Rae Sremmurd</producer>
+      <price>16.29</price>
+      <songs>
+        <song>
+          <title>Red Zone</title>
+          <duration>3:05</duration>
+        </song>
+      </songs>
+    </album>
+ 
+</catalogue>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<directories>
+  <dir path="../../">
+    <dir path="../../bin">
+      <dir path="../../bin\Debug">
+        <file>
+          <name>../../bin\Debug\09.TraverseGivenDirectory.exe</name>
+        </file>
+        <file>
+          <name>../../bin\Debug\09.TraverseGivenDirectory.exe.config</name>
+        </file>
+        <file>
+          <name>../../bin\Debug\09.TraverseGivenDirectory.pdb</name>
+        </file>
+        <file>
+          <name>../../bin\Debug\09.TraverseGivenDirectory.vshost.exe</name>
+        </file>
+        <file>
+          <name>../../bin\Debug\09.TraverseGivenDirectory.vshost.exe.config</name>
+        </file>
+      </dir>
+      <dir path="../../bin\Release" />
+    </dir>
+    <dir path="../../obj">
+      <dir path="../../obj\Debug">
+        <dir path="../../obj\Debug\TempPE" />
+        <file>
+          <name>../../obj\Debug\09.TraverseGivenDirectory.csproj.FileListAbsolute.txt</name>
+        </file>
+        <file>
+          <name>../../obj\Debug\09.TraverseGivenDirectory.csprojResolveAssemblyReference.cache</name>
+        </file>
+        <file>
+          <name>../../obj\Debug\09.TraverseGivenDirectory.exe</name>
+        </file>
+        <file>
+          <name>../../obj\Debug\09.TraverseGivenDirectory.pdb</name>
+        </file>
+        <file>
+          <name>../../obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache</name>
+        </file>
+        <file>
+          <name>../../obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</name>
+        </file>
+        <file>
+          <name>../../obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</name>
+        </file>
+        <file>
+          <name>../../obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</name>
+        </file>
+      </dir>
+    </dir>
+    <dir path="../../Properties">
+      <file>
+        <name>../../Properties\AssemblyInfo.cs</name>
+      </file>
+    </dir>
+    <file>
+      <name>../../09.TraverseGivenDirectory.csproj</name>
+    </file>
+    <file>
+      <name>../../09.TraverseGivenDirectory.csproj.user</name>
+    </file>
+    <file>
+      <name>../../App.config</name>
+    </file>
+    <file>
+      <name>../../directories.xml</name>
+    </file>
+    <file>
+      <name>../../Program.cs</name>
+    </file>
+  </dir>
+</directories>
